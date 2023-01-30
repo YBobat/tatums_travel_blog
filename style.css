@@ -1,0 +1,58 @@
+* {
+    font-family: Arial;
+}
+
+h1, h3 {
+    font-family: Geneva;
+    color: blue;
+}
+
+body {
+    background-color: lightblue;
+}
+
+article {
+    background: linear-gradient(to right, #f7f7f7, #e5e5e5);
+}
+
+header {
+    background-image: url("https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3Vuc2V0JTIwcGFub3JhbWF8ZW58MHx8MHx8&w=1000&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    color: white;
+}
+
+a {
+    color: lightgreen;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    height: 20%;
+    border: 2px solid lightseagreen;
+    border-radius: 0.75em;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px red;
+  }
+  
+  .subheading {
+    border-bottom: 2px solid blue;
+  }
+  
+  header {
+    border-radius: 0.75em;
+    padding: 15px;
+    box-shadow: 2px 2px red;
+    text-shadow: 2px 2px red;
+  }
+  
+  article {
+    border-radius: 0.75em;
+    padding: 15px;
+    box-shadow: 2px 2px red;
+  }
+  
